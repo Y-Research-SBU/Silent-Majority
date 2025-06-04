@@ -1,0 +1,54 @@
+{
+    "group_legends_dict": {
+        "training": {
+            "0": "contradiction w/o negations: 57498",
+            "1": "contradiction w/ negations: 11158",
+            "2": "entailment w/o negations: 67376",
+            "3": "entialment w/ negations: 1521",
+            "4": "neutral w/o negations: 66630",
+            "5": "neutral w/ negations: 1992"
+        },
+        "testing": {
+            "0": "contradiction w/o negations: 57498",
+            "1": "contradiction w/ negations: 11158",
+            "2": "entailment w/o negations: 67376",
+            "3": "entialment w/ negations: 1521",
+            "4": "neutral w/o negations: 66630",
+            "5": "neutral w/ negations: 1992"
+        },
+        "validating": {
+            "0": "contradiction w/o negations: 57498",
+            "1": "contradiction w/ negations: 11158",
+            "2": "entailment w/o negations: 67376",
+            "3": "entialment w/ negations: 1521",
+            "4": "neutral w/o negations: 66630",
+            "5": "neutral w/ negations: 1992"
+        }
+    },
+    "group_sample_counts_dict": {
+        "training": [
+            57498,
+            11158,
+            67376,
+            1521,
+            66630,
+            1992
+        ],
+        "testing": [
+            34597,
+            6655,
+            40496,
+            886,
+            39930,
+            1148
+        ],
+        "validating": [
+            22814,
+            4634,
+            26949,
+            613,
+            26655,
+            797
+        ]
+    }
+}

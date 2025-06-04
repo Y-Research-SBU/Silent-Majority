@@ -1,0 +1,66 @@
+{
+    "group_legends_dict": {
+        "training": {
+            "0": "non-toxic w/ identities: 90337",
+            "1": "non-toxic w/o identities: 148186",
+            "2": "toxic w/ identities: 17784",
+            "3": "toxic w/o identities: 12731"
+        },
+        "testing": {
+            "0": "non-toxic w/ identities: 90337",
+            "1": "non-toxic w/o identities: 148186",
+            "2": "toxic w/ identities: 17784",
+            "3": "toxic w/o identities: 12731"
+        },
+        "validating": {
+            "0": "non-toxic w/ identities: 90337",
+            "1": "non-toxic w/o identities: 148186",
+            "2": "toxic w/ identities: 17784",
+            "3": "toxic w/o identities: 12731"
+        }
+    },
+    "group_sample_counts_dict": {
+        "training": [
+            90337,
+            148186,
+            17784,
+            12731
+        ],
+        "testing": [
+            12092,
+            14179,
+            3210,
+            12101,
+            5355,
+            2980,
+            3335,
+            5723,
+            2203,
+            2270,
+            1216,
+            1260,
+            1627,
+            520,
+            1537,
+            2246
+        ],
+        "validating": [
+            4050,
+            5120,
+            1099,
+            4166,
+            1598,
+            824,
+            1119,
+            2015,
+            715,
+            771,
+            358,
+            384,
+            512,
+            162,
+            533,
+            852
+        ]
+    }
+}

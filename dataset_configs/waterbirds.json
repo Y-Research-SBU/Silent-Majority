@@ -1,0 +1,42 @@
+{
+    "group_legends_dict": {
+        "training": {
+            "0": "Land Bird on Land: 3498",
+            "1": "Land Bird on Water: 184",
+            "2": "Water Bird on Land: 56",
+            "3": "Water Bird on Water: 1057"
+        },
+        "testing": {
+            "0": "Land Bird on Land: 2255",
+            "1": "Land Bird on Water: 2255",
+            "2": "Water Bird on Land: 642",
+            "3": "Water Bird on Water: 642"
+        },
+        "validating": {
+            "0": "Land Bird on Land: 467",
+            "1": "Land Bird on Water: 466",
+            "2": "Water Bird on Land: 133",
+            "3": "Water Bird on Water: 133"
+        }
+    },
+    "group_sample_counts_dict": {
+        "training": [
+            3498,
+            184,
+            56,
+            1057
+        ],
+        "testing": [
+            2255,
+            2255,
+            642,
+            642
+        ],
+        "validating": [
+            467,
+            466,
+            133,
+            133
+        ]
+    }
+}

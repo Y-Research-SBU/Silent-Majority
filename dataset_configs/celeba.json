@@ -1,0 +1,42 @@
+{
+    "group_legends_dict": {
+        "training": {
+            "0": "Non-Blond Female: 71629",
+            "1": "Non-Blond Male: 66874",
+            "2": "Blond Female: 22880",
+            "3": "Blone Male: 1387"
+        },
+        "testing": {
+            "0": "Non-Blond Female: 9767",
+            "1": "Non-Blond Male: 7535",
+            "2": "Blond Female: 2480",
+            "3": "Blone Male: 180"
+        },
+        "validating": {
+            "0": "Non-Blond Female: 8535",
+            "1": "Non-Blond Male: 8276",
+            "2": "Blond Female: 2874",
+            "3": "Blone Male: 182"
+        }
+    },
+    "group_sample_counts_dict": {
+        "training": [
+            71629,
+            66874,
+            22880,
+            1387
+        ],
+        "testing": [
+            9767,
+            7535,
+            2480,
+            180
+        ],
+        "validating": [
+            8535,
+            8276,
+            2874,
+            182
+        ]
+    }
+}
