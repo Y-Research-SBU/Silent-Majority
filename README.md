@@ -1,7 +1,29 @@
-# [Uncovering Memorization Effect in the Presence of Spurious Correlations](http://arxiv.org/abs/2501.00961) (Nature Communications 2025)
+<div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.00961-b31b1b.svg)](https://arxiv.org/abs/2501.00961)
-[![DOI](https://zenodo.org/badge/890094991.svg)](https://doi.org/10.5281/zenodo.15701874)
+<h2>Uncovering Memorization Effect in the Presence of Spurious Correlations</h2>
+<h4>🌟 Nature Communications 2025 🌟</h4>
+
+<br>
+
+**Chenyu You<sup>1,3 ★</sup>**, **Haocheng Dai<sup>2 ★</sup>**, **Yifei Min<sup>1 ★</sup>**, **Jasjeet S. Sekhon<sup>1</sup>**, **Sarang Joshi<sup>2</sup>**, **James S. Duncan<sup>1</sup>**  
+
+*¹Yale University &emsp; ²University of Utah &emsp; ²Stony Brook University*
+
+*★ These authors contributed equally to this work.*
+
+  <p>
+    <a href="https://arxiv.org/abs/2501.00961">
+      <img src="https://img.shields.io/badge/💡%20Paper-Nature%20Communications-red?style=flat-square" alt="ArXiv Paper">
+    </a>
+    <a href="https://doi.org/10.5281/zenodo.15701874">
+      <img src="https://img.shields.io/badge/Zenodo-DOI-blue?style=flat-square" alt="Zenodo Poster & Video">
+    </a>
+    <a href="https://huggingface.co/doem1997/rs_lt/tree/main">
+      <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-yellow?style=flat-square&logo=huggingface" alt="Hugging Face Dataset">
+    </a>
+    <img src="https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.0">
+  </p>
+</div>
 
 ## Overview
 In this work, we present the first systematic study on the role of different neurons in memorizing different group information, and confirm the existence of critical neurons where memorization of spurious correlations occurs.
