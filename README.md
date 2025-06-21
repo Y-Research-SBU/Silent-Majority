@@ -1,4 +1,4 @@
-# [Uncovering Memorization Effect in the Presence of Spurious Correlations](http://arxiv.org/abs/2501.00961) (Nature Communications)
+# [Uncovering Memorization Effect in the Presence of Spurious Correlations](http://arxiv.org/abs/2501.00961) (Nature Communications 2025)
 
 [![DOI](https://zenodo.org/badge/890094991.svg)](https://doi.org/10.5281/zenodo.15701874)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.00961-b31b1b.svg)](https://arxiv.org/abs/2501.00961)
