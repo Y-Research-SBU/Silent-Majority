@@ -13,7 +13,7 @@
 
   <p>
     <a href="https://arxiv.org/abs/2501.00961">
-      <img src="https://img.shields.io/badge/💡%20Paper-Nature%20Communications-red?style=flat-square" alt="ArXiv Paper">
+      <img src="https://img.shields.io/badge/💡%20Paper-Nature%20Communications-yellow?style=flat-square" alt="ArXiv Paper">
     </a>
     <a href="https://doi.org/10.5281/zenodo.15701874">
       <img src="https://img.shields.io/badge/Zenodo-DOI-blue?style=flat-square" alt="Zenodo Poster & Video">
