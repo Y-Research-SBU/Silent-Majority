@@ -7,19 +7,19 @@
 
 **Chenyu You<sup>1,3 ★</sup>**, **Haocheng Dai<sup>2 ★</sup>**, **Yifei Min<sup>1 ★</sup>**, **Jasjeet S. Sekhon<sup>1</sup>**, **Sarang Joshi<sup>2</sup>**, **James S. Duncan<sup>1</sup>**  
 
-*¹Yale University &emsp; ²University of Utah &emsp; ²Stony Brook University*
 
-*★ These authors contributed equally to this work.*
+<sub><sup>1</sup> Yale University  <sup>2</sup> University of Utah  <sup>3</sup> Stony Brook University</sub><br>
+<sub>★ These authors contributed equally to this work.</sub>
 
-  <p>
-    <a href="https://arxiv.org/abs/2501.00961">
-      <img src="https://img.shields.io/badge/💡%20Paper-Nature%20Communications-yellow?style=flat-square" alt="ArXiv Paper">
-    </a>
-    <a href="https://doi.org/10.5281/zenodo.15701874">
-      <img src="https://img.shields.io/badge/Zenodo-DOI-blue?style=flat-square" alt="Zenodo Poster & Video">
-    </a>
-    <img src="https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.0">
-  </p>
+<p>
+  <a href="https://arxiv.org/abs/2501.00961">
+    <img src="https://img.shields.io/badge/💡%20Paper-Nature%20Communications-yellow?style=flat-square" alt="ArXiv Paper">
+  </a>
+  <a href="https://doi.org/10.5281/zenodo.15701874">
+    <img src="https://img.shields.io/badge/Zenodo-DOI-blue?style=flat-square" alt="Zenodo Poster & Video">
+  </a>
+  <img src="https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.0">
+</p>
 </div>
 
 ## Overview
