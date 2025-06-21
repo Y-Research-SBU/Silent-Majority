@@ -18,9 +18,6 @@
     <a href="https://doi.org/10.5281/zenodo.15701874">
       <img src="https://img.shields.io/badge/Zenodo-DOI-blue?style=flat-square" alt="Zenodo Poster & Video">
     </a>
-    <a href="https://huggingface.co/doem1997/rs_lt/tree/main">
-      <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-yellow?style=flat-square&logo=huggingface" alt="Hugging Face Dataset">
-    </a>
     <img src="https://img.shields.io/badge/PyTorch-2.0-EE4C2C?style=flat-square&logo=pytorch" alt="PyTorch 2.0">
   </p>
 </div>
