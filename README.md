@@ -1,6 +1,7 @@
 # [Uncovering Memorization Effect in the Presence of Spurious Correlations](http://arxiv.org/abs/2501.00961) (Nature Communications)
 
-This is the official PyTorch implementation[![DOI](https://zenodo.org/badge/890094991.svg)](https://doi.org/10.5281/zenodo.15701874) of our preprint [![arXiv](https://img.shields.io/badge/arXiv-2501.00961-b31b1b.svg)](https://arxiv.org/abs/2501.00961).
+[![DOI](https://zenodo.org/badge/890094991.svg)](https://doi.org/10.5281/zenodo.15701874)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.00961-b31b1b.svg)](https://arxiv.org/abs/2501.00961)
 
 ## Overview
 In this work, we present the first systematic study on the role of different neurons in memorizing different group information, and confirm the existence of critical neurons where memorization of spurious correlations occurs.
@@ -107,9 +108,9 @@ If you find this project useful, please consider citing:
 
 ```bibtex
 @article{you2025silent,
-  title={The Silent Majority: Demystifying Memorization Effect in the Presence of Spurious Correlations},
+  title={Uncovering Memorization Effect in the Presence of Spurious Correlations},
   author={You, Chenyu and Dai, Haocheng and Min, Yifei and Sekhon, Jasjeet S and Joshi, Sarang and Duncan, James S},
-  journal={arXiv preprint arXiv:2501.00961},
+  journal={Nature Communications},
   year={2025}
 }
 ```
