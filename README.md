@@ -5,11 +5,16 @@
 
 <br>
 
-**Chenyu You<sup>1,3 ★</sup>**, **Haocheng Dai<sup>2 ★</sup>**, **Yifei Min<sup>1 ★</sup>**, **Jasjeet S. Sekhon<sup>1</sup>**, **Sarang Joshi<sup>2</sup>**, **James S. Duncan<sup>1</sup>**  
+[Chenyu You](https://chenyuyou.me/)<sup>1,3 ★</sup>&nbsp;
+[Haocheng Dai](https://users.cs.utah.edu/~haocheng/)<sup>2 ★</sup>&nbsp;
+[Yifei Min](https://scholar.google.com/citations?user=pFWnzL0AAAAJ&hl=en)<sup>1 ★</sup>&nbsp;
+[Jasjeet S. Sekhon](https://sites.google.com/site/indexlzhu/home)<sup>1</sup>&nbsp;
+[Sarang Joshi](https://github.com/scott-yjyang/MeWM)<sup>2</sup>&nbsp;
+[James S. Duncan](https://engineering.yale.edu/research-and-faculty/faculty-directory/james-s-duncan)<sup>1</sup>&nbsp;
 
-
-<sub><sup>1</sup> Yale University  <sup>2</sup> University of Utah  <sup>3</sup> Stony Brook University</sub><br>
-<sub>★ These authors contributed equally to this work.</sub>
+<sup>1</sup> Yale University &nbsp; <sup>2</sup> University of Utah &nbsp; <sup>3</sup> Stony Brook University
+<br>
+★ These authors contributed equally to this work.
 
 <p>
   <a href="https://arxiv.org/abs/2501.00961">
